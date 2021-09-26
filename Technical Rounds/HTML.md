@@ -138,10 +138,10 @@ Section: It is used to define specific sections in a document such as a chapter,
 Header: The header tag defines the title or heading of a document or its section. It is specified with the <header> tag.
 Footer: The footer tag defines the section of a document that contains information such as copyright or author’s information. It is designated with the <footer> tag.
 Article: The article tag represents an independent or self-contained part of the content of a document with the tag <article>.
+ 
+ 
 12. What is Semantic HTML?
-
 Answer:
-
 Semantic HTML is one style of coding, where the tags convey the meaning of the text. HTML uses semantics to reinforce the semantics or purpose of the content.
 
 For Example:
