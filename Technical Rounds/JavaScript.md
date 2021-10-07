@@ -83,7 +83,7 @@ Undefined
 
 **- What is the use of isNaN function?**
 
-isNan function returns true if the argument is not a number otherwise it is false.
+isNan(Not A Number) function returns true if the argument is not a number otherwise it is false.
 
 **-  Between JavaScript and an ASP script, which is faster?**
 
